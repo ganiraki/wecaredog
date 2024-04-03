@@ -1,0 +1,309 @@
+body {
+  font-family: "Dosis", sans-serif;
+  font-weight: 500;
+}
+
+.imgbox img {
+  width: 100%;
+}
+
+#carefor {
+  padding: 50px 0;
+}
+#carefor .textbox h1 {
+  font-weight: 700;
+  font-size: 60px;
+  margin: 0 0 10px;
+}
+#carefor .textbox h4 {
+  color: #a8a8a8;
+  font-size: 24px;
+}
+#carefor .imgbox {
+  width: 500px;
+}
+
+#welcome {
+  padding: 40px 0;
+}
+#welcome .textbox {
+  padding: 80px;
+}
+#welcome .textbox h1 {
+  font-weight: 700;
+  font-size: 30px;
+}
+#welcome .textbox h3 {
+  color: #868686;
+  margin: 20px 0 40px;
+  font-size: 20px;
+}
+#welcome .textbox h2, #welcome .textbox h6 {
+  margin: 15px 0;
+}
+#welcome .textbox h2 {
+  font-size: 33px;
+}
+#welcome .textbox h6 {
+  font-size: 18px;
+}
+#welcome .textbox .btn {
+  padding: 10px 30px;
+  border-radius: 20px;
+  background-color: #a7b59f;
+  color: white;
+}
+#welcome .wid {
+  width: 580px;
+}
+
+#aboutus {
+  padding: 40px 0;
+}
+#aboutus .textbox {
+  padding: 0 100px;
+}
+#aboutus .textbox h1 {
+  font-weight: 700;
+  font-size: 35px;
+}
+#aboutus .textbox h3, #aboutus .textbox p {
+  color: #a8a8a8;
+  font-weight: 100;
+  font-size: 20px;
+  margin: 20px 0 0;
+  line-height: 1.6;
+}
+#aboutus .textbox p {
+  color: #949494;
+  font-size: 18px;
+  line-height: 1.4;
+}
+#aboutus .textbox li {
+  display: flex;
+  padding: 20px 0 0 0;
+}
+#aboutus .textbox .icon {
+  padding: 0 10px 0 0;
+  color: #5e5656;
+}
+#aboutus .textbox h4 {
+  font-size: 20px;
+  color: #949494;
+}
+#aboutus .imgbox {
+  width: 450px;
+}
+
+#trainers {
+  padding: 40px 0;
+}
+#trainers h1 {
+  font-weight: 700;
+  font-size: 38px;
+}
+#trainers h3, #trainers h4 {
+  color: #a8a8a8;
+  margin: 20px 0;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 1.4;
+}
+#trainers .box {
+  margin: 0 5px;
+}
+#trainers .box .textbox {
+  padding: 15px;
+}
+#trainers .box .textbox h2 {
+  font-size: 25px;
+  padding: 20px 0 0;
+  font-weight: 300;
+}
+#trainers .box .textbox ul {
+  display: flex;
+  flex-direction: row;
+}
+#trainers .box .textbox ul li {
+  margin: 0 10px;
+  border-radius: 50%;
+  background-color: #d4cece;
+  padding: 20px;
+  width: 10px;
+  height: 10px;
+}
+#trainers .box .textbox ul li .icon {
+  margin: -7px;
+}
+#trainers .wid {
+  width: 580px;
+}
+
+#pricing {
+  padding: 40px 0;
+}
+#pricing .textbox {
+  width: 580px;
+  text-align: center;
+}
+#pricing .textbox h1 {
+  font-size: 35px;
+  font-weight: 700;
+  margin: 15px;
+}
+#pricing .textbox h5 {
+  font-weight: 200;
+  font-size: 20px;
+  color: #000000;
+  margin: 20px 0 50px;
+}
+#pricing .box {
+  width: 340px;
+  color: white;
+  background-color: #708f97;
+  padding: 50px 30px;
+  text-align: center;
+}
+#pricing .box h2 {
+  font-size: 25px;
+}
+#pricing .box h3 {
+  font-size: 30px;
+  margin: 20px 0 0;
+}
+#pricing .box li {
+  display: flex;
+  justify-content: center;
+  margin: 25px 0 0;
+}
+#pricing .box li h4 {
+  font-size: 18px;
+  margin: 0 0 0 10px;
+}
+#pricing .box .btn {
+  padding: 10px 35px;
+  margin: 30px 0 0;
+  border-radius: 30px;
+  background-color: #2b383c;
+  color: white;
+}
+#pricing .premium-color {
+  background-color: #2b383c;
+}
+#pricing .premium-color .btn {
+  background-color: #708f97;
+}
+
+#frequently {
+  padding: 40px 0;
+}
+#frequently .wid {
+  width: 580px;
+}
+#frequently h1 {
+  font-weight: 700;
+  font-size: 36px;
+  margin: 15px 0;
+}
+#frequently h3 {
+  font-size: 20px;
+  margin: 0 0 40px;
+  line-height: 1.4;
+}
+#frequently .textbox {
+  padding: 0 40px;
+}
+#frequently .textbox h2, #frequently .textbox h4 {
+  font-size: 25px;
+  margin: 0 0 0 10px;
+  color: #717171;
+}
+#frequently .textbox .minibox {
+  margin: 20px 0 0 0;
+}
+#frequently .textbox .minibox h2 {
+  margin: 0 0 0 10px;
+}
+#frequently .textbox p {
+  font-size: 20px;
+  margin: 30px 0 0 32px;
+  color: #949494;
+}
+#frequently .textbox li {
+  margin: 30px 0 0;
+  display: flex;
+}
+#frequently .textbox .icon {
+  color: #d4cece;
+}
+#frequently .textbox .icon i {
+  font-size: 22px;
+}
+#frequently .textbox .bigicon i {
+  font-size: 30px;
+}
+
+#dogger {
+  padding: 40px 0;
+}
+#dogger .wid {
+  width: 580px;
+}
+#dogger h1 {
+  font-size: 35px;
+  font-weight: 700;
+}
+#dogger h3 {
+  font-size: 20px;
+  margin: 30px 0 60px;
+}
+#dogger .box {
+  display: flex;
+}
+#dogger .textbox {
+  margin: 0 0 0 20px;
+}
+#dogger .textbox h2 {
+  font-size: 22px;
+}
+#dogger .textbox h4 {
+  color: #aba8a8;
+  font-size: 18px;
+}
+#dogger .textbox p {
+  font-size: 18px;
+  color: #8f8686;
+}
+#dogger .textbox h4, #dogger .textbox p {
+  margin: 20px 0 0;
+}
+
+#ourservices {
+  padding: 40px 0;
+}
+#ourservices .wid {
+  width: 580px;
+}
+#ourservices h1 {
+  font-weight: 700;
+  font-size: 35px;
+}
+#ourservices h3 {
+  font-size: 20px;
+  color: #c6c6c6;
+  margin: 30px 0;
+}
+#ourservices .textbox {
+  padding: 30px 40px;
+}
+#ourservices .textbox h2 {
+  font-size: 25px;
+  color: #757575;
+  margin: 20px 0 0;
+}
+#ourservices .textbox h3 {
+  margin: 30px 0 0;
+}
+#ourservices .textbox .icon {
+  font-size: 60px;
+}/*# sourceMappingURL=style.css.map */
